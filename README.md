@@ -18,12 +18,12 @@
 
 # 📌 Repository Information
 
-* **Repository Name:** `AI_ProblemSolving_<RA2411026050055>`
+* **Repository Name:** `AI_ProblemSolving_<RA2411026050124>`
 * **Course:** Artificial Intelligence
 * **Assignment Type:** Problem Solving using AI Techniques
 * **Team Members:**
 
-  * Name : S G S V GANESH
+  * Name : THIRUPATHI MANISHA BABU 
 
 ---
 
@@ -266,7 +266,7 @@ This repository successfully demonstrates the practical implementation of core A
 
 # 👨‍💻 Authors
 
-* Name : S G S V GANESH
+* Name : THIRUPATHI MANISHA BABU
 
 ---
 
